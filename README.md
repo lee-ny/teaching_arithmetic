@@ -26,7 +26,19 @@ Tested stable dependencies:
 
 ## Running Experiments:
 ---
-The main script is `train.py`, to launch the jobs, we provide scripts in `run/`. A description of the main arguments is given below.
+The main script is `train.py`, to launch the jobs, we provide scripts in `run/`. 
+An example of running the code is as follows:
+```
+python train.py config2/addition/plain/train_addition_bal.py \
+--ckpt_path_name="ckpt_10000.pt" \
+--out_dir='out/addition_plain' \
+--data_type='text' --data_format='plain' \
+--dataset='bal' --train_data_path="train_3digit_10000.txt" \
+--eval_addition=True --start='FILE:data/bal/test_10000.txt'
+```
+The argument following `python train.py` is the config file that contains all the hyperparameters and settings for the experiment.
+The code trains a model on the addition task using the `plain` formatting technique on the `bal` dataset.
+A description of the main arguments is given below.
 
 ### Dataset
 | Argument                      | Description                                 |
@@ -86,7 +98,7 @@ The main script is `train.py`, to launch the jobs, we provide scripts in `run/`.
 | `always_save_checkpoint`     | Set True to always save a checkpoint after each eval. |
 
 ### Configs
-Note that the workflow is managed by specifying the above arguments using `.py` files specified in the `config/, config2/, config_gpt2` directory and running them with modifications as provided in the scripts in `run/, run_gpt2/`.
+Note that the workflow is managed by specifying the above arguments using the config files specified in the `config/, config2/, config_gpt2` directory and running them with modifications as provided in the scripts in `run/`, `run_gpt2/`.
 
 ### Sample Config
 ```
