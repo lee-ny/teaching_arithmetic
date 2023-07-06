@@ -10,7 +10,7 @@ We also study the interplay between arithmetic and text data during training and
 ---
 This codebase is based on the [NanoGPT](https://github.com/karpathy/nanoGPT) repo. We have made some modifications to the codebase to support our experiments.
 
-## Depdendencies (tentative)
+## Dependencies (tentative)
 ---
 Tested stable dependencies:
 * python 3.8.10 (Anaconda)
@@ -24,31 +24,31 @@ Tested stable dependencies:
 * tqdm
 * wandb (optional)
 
-## Running Experients:
+## Running Experiments:
 ---
-The main script is `train.py`, to launch the jobs, we provide scripts in `run/`. Description of the main arguments are given below.
+The main script is `train.py`, to launch the jobs, we provide scripts in `run/`. A description of the main arguments is given below.
 
 ### Dataset
 | Argument                      | Description                                 |
 | ----------------------------- | ---------------------------------------- |
 | `dataset`      | Dataset to use. (directory name inside `data/`) |
 | `data_type` | `binary \| text` .|
-| `train_data_path` | Data used for training. If `data_type=binary` this should be binary file (.bin) else if `data_type=text` this should be a text file (.txt). The data file is `data/{dataset}/{train_data_path}`. |
+| `train_data_path` | Data used for training. If `data_type=binary` this should be a binary file (.bin) else if `data_type=text` this should be a text file (.txt). The data file is `data/{dataset}/{train_data_path}`. |
 | `operator` | Operator to be trained on: `+ \| - \| * \| sin \| sqrt`. |
 | `data_format` | Formatting techniques to use: `plain \| reverse \| algo_reasoning`. |
 | `num_digit` | Number of digits considered. |
-| `tokenizer` | Tokenizer used. By default, we use char-level tokenizer `char`. To use OpenAI tokenizer, set it to `gpt2`.|
+| `tokenizer` | Tokenizer used. By default, we use char-level tokenizer `char`. To use the OpenAI tokenizer, set it to `gpt2`.|
 | `reverse_c` | Set True to reverse the output (used with `data_format=reverse`). |
-| `algo_reason` | Set True to use scratchpad formatting (both detailed / simplified scratchpad). |
+| `algo_reason` | Set True to use scratchpad formatting (both detailed/simplified scratchpad). |
 | `simple` | Set True to use simplified scratchpad formatting (must be used with `algo_reason=True`). |
-| `add_space` | Set True to add a space between each digits.  |
+| `add_space` | Set True to add a space between each digit.  |
 | `vocabulary` | Vocabulary set to consider: `all_ascii_chars` \| `numbers_only` \| `custom_input_data` (vocabulary only consists of characters appearing in the dataset). |
 
 ### Model
 | Argument                      | Description                                 |
 | ----------------------------- | ---------------------------------------- |
 | `init_from`   | Select model to train from `scratch`: random init. \| `resume`: resume from `{resume_dir}` (if specified) or `{out_dir}/{ckpt_path_name}` \| `gpt2 \| gpt2-medium \| gpt2-large \| gpt2-xl`: pretrained GPT-2 models. |
-| `n_layer`     | Number of self attention layer. |
+| `n_layer`     | Number of self-attention layers. |
 | `n_head`      | Number of heads. |
 | `n_embd`      | Dimension for embedding. |
 | `block_size`  | Context length. |
@@ -71,13 +71,13 @@ The main script is `train.py`, to launch the jobs, we provide scripts in `run/`.
 ### Evaluation and Checkpointing
 | Argument                      | Description                                 |
 | ----------------------------- | ---------------------------------------- |
-| `eval_addition` | Set True to evaluate the performance on the arithmetic task (given by `operator`) that is beining trained on over the test data `start`. |
-| `start` | Test data to be evaluated on. Prepend with `"FILE:"` to specify a specific test data (either .txt or .bin file depending on `data_type`) to be evaluated. Else, `start` is regarded as a test sequence to directly be input to the model. |
-| `multi_digit` | Set True to evaluates test accuracy on each digit (1 to `num_digit`) test data |
+| `eval_addition` | Set True to evaluate the performance on the arithmetic task (given by `operator`) that is being trained on over the test data `start`. |
+| `start` | Test data to be evaluated. Prepend with `"FILE:"` to specify a specific test data (either .txt or .bin file depending on `data_type`) to be evaluated. Else, `start` is regarded as a test sequence to directly be input to the model. |
+| `multi_digit` | Set True to evaluate test accuracy on each digit (1 to `num_digit`) test data |
 | `eval_addition_train` | Set True to evaluate the train data used for training. |
 | `eval_text`   | Set True to evaluate the perplexity on the text `eval_text_data`. |
 | `eval_addition_ar`   | Set True to evaluate the performance on scratchpad methods over the test data `start_ar`. |
-| `eval_other`   | Set True to evaluate the performance on arithmetic task (given by `other_operator`) over the test data (`start_other`). This is used to evaluate the performance that is not identical to `operator`, which the model is being trained on.  |
+| `eval_other`   | Set True to evaluate the performance on the arithmetic task (given by `other_operator`) over the test data (`start_other`). This is used to evaluate the performance that is not identical to the `operator`, which the model is being trained on.  |
 | `out_dir`   | Directory to save the model. |
 | `ckpt_path_name`     | Filename of the saved model (inside `{out_dir}/`). |
 | `eval_interval`     | Number of iteration intervals at which evaluations will be performed. |
