@@ -1,0 +1,77 @@
+creating 3 examples: 
+num_examples for each carry: 2500
+num_examples for each digit: [100, 4950, 4950]
+1,100, 0, [0, 0, 0, 0]
+2,4950, 100, [56, 44, 0, 0]
+3,4950, 5050, [1595, 2255, 1200, 0]
+created 10000 number of examples and saved to addition_multidigit_bal_ver1/add_examples_3.txt
+creating 4 examples: 
+num_examples for each carry: 2000
+num_examples for each digit: [100, 3300, 3300, 3300]
+1,100, 0, [0, 0, 0, 0, 0]
+2,3300, 100, [55, 45, 0, 0, 0]
+3,3300, 3400, [1004, 1521, 875, 0, 0]
+4,3300, 6700, [1953, 2000, 2000, 747, 0]
+created 10000 number of examples and saved to addition_multidigit_bal_ver1/add_examples_4.txt
+creating 5 examples: 
+num_examples for each carry: 1667
+num_examples for each digit: [100, 2475, 2475, 2475, 2475]
+1,100, 0, [0, 0, 0, 0, 0, 0]
+2,2475, 100, [46, 54, 0, 0, 0, 0]
+3,2475, 2575, [774, 1179, 622, 0, 0, 0]
+4,2475, 5050, [1304, 1667, 1667, 412, 0, 0]
+5,2475, 7525, [1667, 1667, 1667, 1667, 857, 0]
+created 10000 number of examples and saved to addition_multidigit_bal_ver1/add_examples_5.txt
+creating 6 examples: 
+num_examples for each carry: 1429
+num_examples for each digit: [100, 1980, 1980, 1980, 1980, 1980]
+1,100, 0, [0, 0, 0, 0, 0, 0, 0]
+2,1980, 100, [47, 53, 0, 0, 0, 0, 0]
+3,1980, 2080, [611, 984, 485, 0, 0, 0, 0]
+4,1980, 4060, [991, 1429, 1331, 309, 0, 0, 0]
+5,1980, 6040, [1404, 1429, 1429, 1410, 368, 0, 0]
+6,1980, 8020, [1429, 1429, 1429, 1429, 1429, 875, 0]
+created 10000 number of examples and saved to addition_multidigit_bal_ver1/add_examples_6.txt
+creating 7 examples: 
+num_examples for each carry: 1250
+num_examples for each digit: [100, 1650, 1650, 1650, 1650, 1650, 1650]
+percentage of exmamples for each digit: [100.0, 16.5, 0.165, 0.00165, 1.65e-05, 1.65e-07, 1.65e-09]
+1,100, 0, [0, 0, 0, 0, 0, 0, 0, 0]
+2,1650, 100, [57, 43, 0, 0, 0, 0, 0, 0]
+3,1650, 1750, [543, 778, 429, 0, 0, 0, 0, 0]
+4,1650, 3400, [842, 1250, 1049, 259, 0, 0, 0, 0]
+5,1650, 5050, [1173, 1250, 1250, 1139, 238, 0, 0, 0]
+6,1650, 6700, [1250, 1250, 1250, 1250, 1250, 450, 0, 0]
+7,1650, 8350, [1250, 1250, 1250, 1250, 1250, 1250, 850, 0]
+created 10000 number of examples and saved to addition_multidigit_bal_ver1/add_examples_7.txt
+creating 7 examples: 
+num_examples for each carry: 12500
+num_examples for each digit: [100, 16650, 16650, 16650, 16650, 16650, 16650]
+percentage of exmamples for each digit: [100.0, 166.5, 1.665, 0.01665, 0.0001665, 1.665e-06, 1.665e-08]
+1,100, 0, [0, 0, 0, 0, 0, 0, 0, 0]
+2,16650, 100, [50, 50, 0, 0, 0, 0, 0, 0]
+3,16650, 16750, [4994, 7644, 4112, 0, 0, 0, 0, 0]
+4,16650, 33400, [8110, 12500, 10297, 2493, 0, 0, 0, 0]
+5,16650, 50050, [11378, 12500, 12500, 10911, 2761, 0, 0, 0]
+6,16650, 66700, [12500, 12500, 12500, 12500, 12500, 4200, 0, 0]
+7,16650, 83350, [12500, 12500, 12500, 12500, 12500, 12500, 8350, 0]
+created 100000 number of examples and saved to addition_multidigit_bal_ver1/add_examples_7_100000.txtcreating 4 examples: 
+creating 5 examples: 
+num_examples for each carry: 842
+num_examples for each digit: [100, 1650, 0, 1650, 1650]
+percentage of exmamples for each digit: [100.0, 16.5, 0.0, 0.00165, 1.65e-05]
+1,100, 0, [0, 0, 0, 0, 0, 0]
+2,1650, 100, [50, 50, 0, 0, 0, 0]
+3,0, 1750, [528, 791, 431, 0, 0, 0]
+4,1650, 1750, [528, 791, 431, 0, 0, 0]
+5,1650, 3400, [814, 842, 842, 682, 220, 0]
+created 5050 number of examples and saved to addition_multidigit_bal_ver1/add_examples_2and4_5050.txt
+creating 4 examples: 
+num_examples for each carry: 400
+num_examples for each digit: [100, 950, 0, 950]
+percentage of exmamples for each digit: [100.0, 9.5, 0.0, 0.00095]
+1,100, 0, [0, 0, 0, 0, 0]
+2,950, 100, [49, 51, 0, 0, 0]
+3,0, 1050, [389, 400, 261, 0, 0]
+4,950, 1050, [389, 400, 261, 0, 0]
+created 2000 number of examples and saved to addition_multidigit_bal_ver1/add_examples_2and4_2000.txt

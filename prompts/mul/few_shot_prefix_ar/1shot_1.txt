@@ -1,0 +1,10 @@
+Input:
+2*20
+Target:
+<scratch>
+[2] has 1 digits.
+[2,0] has 2 digits.
+[2] * 0 , A=[0] , k=1 , B=[0] , C=0+0=0
+[2] * 2 , A=[4] , k=10 , B=[4,0] , C=0+40=40 , END
+</scratch>
+4 0

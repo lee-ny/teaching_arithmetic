@@ -1,0 +1,495 @@
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+23+543
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+25+665
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+40+645
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+44+540
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+55+481
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+56+690
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+65+533
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+71+68
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+72+767
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+77+831
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+78+494
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+83+755
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+89+963
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+106+936
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+110+68
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+128+926
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+135+13
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+136+840
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+144+464
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+152+626
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+163+287
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+177+618
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+201+638
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+213+476
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+235+107
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+243+849
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+246+914
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+253+700
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+260+112
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+262+673
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+274+214
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+279+94
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+281+159
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+305+589
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+309+558
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+312+457
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+324+531
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+324+610
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+334+42
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+338+439
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+341+49
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+357+137
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+367+176
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+378+881
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+379+648
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+410+919
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+418+694
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+440+260
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+446+826
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+455+201
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+470+680
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+478+727
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+488+537
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+494+306
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+506+572
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+511+8
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+521+53
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+523+276
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+529+661
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+530+361
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+540+577
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+557+155
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+560+545
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+568+874
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+581+405
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+581+414
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+596+819
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+605+516
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+605+997
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+608+364
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+622+112
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+629+778
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+633+684
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+634+276
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+648+157
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+649+207
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+667+525
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+673+361
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+675+754
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+701+793
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+712+658
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+746+711
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+757+751
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+767+325
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+767+407
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+771+681
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+783+769
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+822+409
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+829+351
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+837+362
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+840+936
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+852+852
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+860+33
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+887+13
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+897+245
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+941+611
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+952+239
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+954+204
+
+CORIOLANUS:
+Nay! prithee, woman,--
+Input:
+956+820
+

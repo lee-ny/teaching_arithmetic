@@ -1,0 +1,495 @@
+All:
+Resolved. resolved.
+Input:
+23+543
+
+All:
+Resolved. resolved.
+Input:
+25+665
+
+All:
+Resolved. resolved.
+Input:
+40+645
+
+All:
+Resolved. resolved.
+Input:
+44+540
+
+All:
+Resolved. resolved.
+Input:
+55+481
+
+All:
+Resolved. resolved.
+Input:
+56+690
+
+All:
+Resolved. resolved.
+Input:
+65+533
+
+All:
+Resolved. resolved.
+Input:
+71+68
+
+All:
+Resolved. resolved.
+Input:
+72+767
+
+All:
+Resolved. resolved.
+Input:
+77+831
+
+All:
+Resolved. resolved.
+Input:
+78+494
+
+All:
+Resolved. resolved.
+Input:
+83+755
+
+All:
+Resolved. resolved.
+Input:
+89+963
+
+All:
+Resolved. resolved.
+Input:
+106+936
+
+All:
+Resolved. resolved.
+Input:
+110+68
+
+All:
+Resolved. resolved.
+Input:
+128+926
+
+All:
+Resolved. resolved.
+Input:
+135+13
+
+All:
+Resolved. resolved.
+Input:
+136+840
+
+All:
+Resolved. resolved.
+Input:
+144+464
+
+All:
+Resolved. resolved.
+Input:
+152+626
+
+All:
+Resolved. resolved.
+Input:
+163+287
+
+All:
+Resolved. resolved.
+Input:
+177+618
+
+All:
+Resolved. resolved.
+Input:
+201+638
+
+All:
+Resolved. resolved.
+Input:
+213+476
+
+All:
+Resolved. resolved.
+Input:
+235+107
+
+All:
+Resolved. resolved.
+Input:
+243+849
+
+All:
+Resolved. resolved.
+Input:
+246+914
+
+All:
+Resolved. resolved.
+Input:
+253+700
+
+All:
+Resolved. resolved.
+Input:
+260+112
+
+All:
+Resolved. resolved.
+Input:
+262+673
+
+All:
+Resolved. resolved.
+Input:
+274+214
+
+All:
+Resolved. resolved.
+Input:
+279+94
+
+All:
+Resolved. resolved.
+Input:
+281+159
+
+All:
+Resolved. resolved.
+Input:
+305+589
+
+All:
+Resolved. resolved.
+Input:
+309+558
+
+All:
+Resolved. resolved.
+Input:
+312+457
+
+All:
+Resolved. resolved.
+Input:
+324+531
+
+All:
+Resolved. resolved.
+Input:
+324+610
+
+All:
+Resolved. resolved.
+Input:
+334+42
+
+All:
+Resolved. resolved.
+Input:
+338+439
+
+All:
+Resolved. resolved.
+Input:
+341+49
+
+All:
+Resolved. resolved.
+Input:
+357+137
+
+All:
+Resolved. resolved.
+Input:
+367+176
+
+All:
+Resolved. resolved.
+Input:
+378+881
+
+All:
+Resolved. resolved.
+Input:
+379+648
+
+All:
+Resolved. resolved.
+Input:
+410+919
+
+All:
+Resolved. resolved.
+Input:
+418+694
+
+All:
+Resolved. resolved.
+Input:
+440+260
+
+All:
+Resolved. resolved.
+Input:
+446+826
+
+All:
+Resolved. resolved.
+Input:
+455+201
+
+All:
+Resolved. resolved.
+Input:
+470+680
+
+All:
+Resolved. resolved.
+Input:
+478+727
+
+All:
+Resolved. resolved.
+Input:
+488+537
+
+All:
+Resolved. resolved.
+Input:
+494+306
+
+All:
+Resolved. resolved.
+Input:
+506+572
+
+All:
+Resolved. resolved.
+Input:
+511+8
+
+All:
+Resolved. resolved.
+Input:
+521+53
+
+All:
+Resolved. resolved.
+Input:
+523+276
+
+All:
+Resolved. resolved.
+Input:
+529+661
+
+All:
+Resolved. resolved.
+Input:
+530+361
+
+All:
+Resolved. resolved.
+Input:
+540+577
+
+All:
+Resolved. resolved.
+Input:
+557+155
+
+All:
+Resolved. resolved.
+Input:
+560+545
+
+All:
+Resolved. resolved.
+Input:
+568+874
+
+All:
+Resolved. resolved.
+Input:
+581+405
+
+All:
+Resolved. resolved.
+Input:
+581+414
+
+All:
+Resolved. resolved.
+Input:
+596+819
+
+All:
+Resolved. resolved.
+Input:
+605+516
+
+All:
+Resolved. resolved.
+Input:
+605+997
+
+All:
+Resolved. resolved.
+Input:
+608+364
+
+All:
+Resolved. resolved.
+Input:
+622+112
+
+All:
+Resolved. resolved.
+Input:
+629+778
+
+All:
+Resolved. resolved.
+Input:
+633+684
+
+All:
+Resolved. resolved.
+Input:
+634+276
+
+All:
+Resolved. resolved.
+Input:
+648+157
+
+All:
+Resolved. resolved.
+Input:
+649+207
+
+All:
+Resolved. resolved.
+Input:
+667+525
+
+All:
+Resolved. resolved.
+Input:
+673+361
+
+All:
+Resolved. resolved.
+Input:
+675+754
+
+All:
+Resolved. resolved.
+Input:
+701+793
+
+All:
+Resolved. resolved.
+Input:
+712+658
+
+All:
+Resolved. resolved.
+Input:
+746+711
+
+All:
+Resolved. resolved.
+Input:
+757+751
+
+All:
+Resolved. resolved.
+Input:
+767+325
+
+All:
+Resolved. resolved.
+Input:
+767+407
+
+All:
+Resolved. resolved.
+Input:
+771+681
+
+All:
+Resolved. resolved.
+Input:
+783+769
+
+All:
+Resolved. resolved.
+Input:
+822+409
+
+All:
+Resolved. resolved.
+Input:
+829+351
+
+All:
+Resolved. resolved.
+Input:
+837+362
+
+All:
+Resolved. resolved.
+Input:
+840+936
+
+All:
+Resolved. resolved.
+Input:
+852+852
+
+All:
+Resolved. resolved.
+Input:
+860+33
+
+All:
+Resolved. resolved.
+Input:
+887+13
+
+All:
+Resolved. resolved.
+Input:
+897+245
+
+All:
+Resolved. resolved.
+Input:
+941+611
+
+All:
+Resolved. resolved.
+Input:
+952+239
+
+All:
+Resolved. resolved.
+Input:
+954+204
+
+All:
+Resolved. resolved.
+Input:
+956+820
+

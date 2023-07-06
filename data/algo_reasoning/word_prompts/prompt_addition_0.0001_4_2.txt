@@ -1,0 +1,693 @@
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+23+543
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+25+665
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+40+645
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+44+540
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+55+481
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+56+690
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+65+533
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+71+68
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+72+767
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+77+831
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+78+494
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+83+755
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+89+963
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+106+936
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+110+68
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+128+926
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+135+13
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+136+840
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+144+464
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+152+626
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+163+287
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+177+618
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+201+638
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+213+476
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+235+107
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+243+849
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+246+914
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+253+700
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+260+112
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+262+673
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+274+214
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+279+94
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+281+159
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+305+589
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+309+558
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+312+457
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+324+531
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+324+610
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+334+42
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+338+439
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+341+49
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+357+137
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+367+176
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+378+881
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+379+648
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+410+919
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+418+694
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+440+260
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+446+826
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+455+201
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+470+680
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+478+727
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+488+537
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+494+306
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+506+572
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+511+8
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+521+53
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+523+276
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+529+661
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+530+361
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+540+577
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+557+155
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+560+545
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+568+874
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+581+405
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+581+414
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+596+819
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+605+516
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+605+997
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+608+364
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+622+112
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+629+778
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+633+684
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+634+276
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+648+157
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+649+207
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+667+525
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+673+361
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+675+754
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+701+793
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+712+658
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+746+711
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+757+751
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+767+325
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+767+407
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+771+681
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+783+769
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+822+409
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+829+351
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+837+362
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+840+936
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+852+852
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+860+33
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+887+13
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+897+245
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+941+611
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+952+239
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+954+204
+
+Like a river flows 17-23
+Surely to the sea 15-22
+Darling, so it goes 46-92
+Some things are meant to be
+Input:
+956+820
+

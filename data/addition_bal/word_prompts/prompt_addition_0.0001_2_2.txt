@@ -1,0 +1,396 @@
+All:
+Resolved. resolved.
+23+543=
+
+All:
+Resolved. resolved.
+25+665=
+
+All:
+Resolved. resolved.
+40+645=
+
+All:
+Resolved. resolved.
+44+540=
+
+All:
+Resolved. resolved.
+55+481=
+
+All:
+Resolved. resolved.
+56+690=
+
+All:
+Resolved. resolved.
+65+533=
+
+All:
+Resolved. resolved.
+71+68=
+
+All:
+Resolved. resolved.
+72+767=
+
+All:
+Resolved. resolved.
+77+831=
+
+All:
+Resolved. resolved.
+78+494=
+
+All:
+Resolved. resolved.
+83+755=
+
+All:
+Resolved. resolved.
+89+963=
+
+All:
+Resolved. resolved.
+106+936=
+
+All:
+Resolved. resolved.
+110+68=
+
+All:
+Resolved. resolved.
+128+926=
+
+All:
+Resolved. resolved.
+135+13=
+
+All:
+Resolved. resolved.
+136+840=
+
+All:
+Resolved. resolved.
+144+464=
+
+All:
+Resolved. resolved.
+152+626=
+
+All:
+Resolved. resolved.
+163+287=
+
+All:
+Resolved. resolved.
+177+618=
+
+All:
+Resolved. resolved.
+201+638=
+
+All:
+Resolved. resolved.
+213+476=
+
+All:
+Resolved. resolved.
+235+107=
+
+All:
+Resolved. resolved.
+243+849=
+
+All:
+Resolved. resolved.
+246+914=
+
+All:
+Resolved. resolved.
+253+700=
+
+All:
+Resolved. resolved.
+260+112=
+
+All:
+Resolved. resolved.
+262+673=
+
+All:
+Resolved. resolved.
+274+214=
+
+All:
+Resolved. resolved.
+279+94=
+
+All:
+Resolved. resolved.
+281+159=
+
+All:
+Resolved. resolved.
+305+589=
+
+All:
+Resolved. resolved.
+309+558=
+
+All:
+Resolved. resolved.
+312+457=
+
+All:
+Resolved. resolved.
+324+531=
+
+All:
+Resolved. resolved.
+324+610=
+
+All:
+Resolved. resolved.
+334+42=
+
+All:
+Resolved. resolved.
+338+439=
+
+All:
+Resolved. resolved.
+341+49=
+
+All:
+Resolved. resolved.
+357+137=
+
+All:
+Resolved. resolved.
+367+176=
+
+All:
+Resolved. resolved.
+378+881=
+
+All:
+Resolved. resolved.
+379+648=
+
+All:
+Resolved. resolved.
+410+919=
+
+All:
+Resolved. resolved.
+418+694=
+
+All:
+Resolved. resolved.
+440+260=
+
+All:
+Resolved. resolved.
+446+826=
+
+All:
+Resolved. resolved.
+455+201=
+
+All:
+Resolved. resolved.
+470+680=
+
+All:
+Resolved. resolved.
+478+727=
+
+All:
+Resolved. resolved.
+488+537=
+
+All:
+Resolved. resolved.
+494+306=
+
+All:
+Resolved. resolved.
+506+572=
+
+All:
+Resolved. resolved.
+511+8=
+
+All:
+Resolved. resolved.
+521+53=
+
+All:
+Resolved. resolved.
+523+276=
+
+All:
+Resolved. resolved.
+529+661=
+
+All:
+Resolved. resolved.
+530+361=
+
+All:
+Resolved. resolved.
+540+577=
+
+All:
+Resolved. resolved.
+557+155=
+
+All:
+Resolved. resolved.
+560+545=
+
+All:
+Resolved. resolved.
+568+874=
+
+All:
+Resolved. resolved.
+581+405=
+
+All:
+Resolved. resolved.
+581+414=
+
+All:
+Resolved. resolved.
+596+819=
+
+All:
+Resolved. resolved.
+605+516=
+
+All:
+Resolved. resolved.
+605+997=
+
+All:
+Resolved. resolved.
+608+364=
+
+All:
+Resolved. resolved.
+622+112=
+
+All:
+Resolved. resolved.
+629+778=
+
+All:
+Resolved. resolved.
+633+684=
+
+All:
+Resolved. resolved.
+634+276=
+
+All:
+Resolved. resolved.
+648+157=
+
+All:
+Resolved. resolved.
+649+207=
+
+All:
+Resolved. resolved.
+667+525=
+
+All:
+Resolved. resolved.
+673+361=
+
+All:
+Resolved. resolved.
+675+754=
+
+All:
+Resolved. resolved.
+701+793=
+
+All:
+Resolved. resolved.
+712+658=
+
+All:
+Resolved. resolved.
+746+711=
+
+All:
+Resolved. resolved.
+757+751=
+
+All:
+Resolved. resolved.
+767+325=
+
+All:
+Resolved. resolved.
+767+407=
+
+All:
+Resolved. resolved.
+771+681=
+
+All:
+Resolved. resolved.
+783+769=
+
+All:
+Resolved. resolved.
+822+409=
+
+All:
+Resolved. resolved.
+829+351=
+
+All:
+Resolved. resolved.
+837+362=
+
+All:
+Resolved. resolved.
+840+936=
+
+All:
+Resolved. resolved.
+852+852=
+
+All:
+Resolved. resolved.
+860+33=
+
+All:
+Resolved. resolved.
+887+13=
+
+All:
+Resolved. resolved.
+897+245=
+
+All:
+Resolved. resolved.
+941+611=
+
+All:
+Resolved. resolved.
+952+239=
+
+All:
+Resolved. resolved.
+954+204=
+
+All:
+Resolved. resolved.
+956+820=
+

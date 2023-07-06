@@ -1,0 +1,594 @@
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+23+543
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+25+665
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+40+645
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+44+540
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+55+481
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+56+690
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+65+533
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+71+68
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+72+767
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+77+831
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+78+494
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+83+755
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+89+963
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+106+936
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+110+68
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+128+926
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+135+13
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+136+840
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+144+464
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+152+626
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+163+287
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+177+618
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+201+638
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+213+476
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+235+107
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+243+849
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+246+914
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+253+700
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+260+112
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+262+673
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+274+214
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+279+94
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+281+159
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+305+589
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+309+558
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+312+457
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+324+531
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+324+610
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+334+42
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+338+439
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+341+49
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+357+137
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+367+176
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+378+881
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+379+648
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+410+919
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+418+694
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+440+260
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+446+826
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+455+201
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+470+680
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+478+727
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+488+537
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+494+306
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+506+572
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+511+8
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+521+53
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+523+276
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+529+661
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+530+361
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+540+577
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+557+155
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+560+545
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+568+874
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+581+405
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+581+414
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+596+819
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+605+516
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+605+997
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+608+364
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+622+112
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+629+778
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+633+684
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+634+276
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+648+157
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+649+207
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+667+525
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+673+361
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+675+754
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+701+793
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+712+658
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+746+711
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+757+751
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+767+325
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+767+407
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+771+681
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+783+769
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+822+409
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+829+351
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+837+362
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+840+936
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+852+852
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+860+33
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+887+13
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+897+245
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+941+611
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+952+239
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+954+204
+
+BUCKINGHAM:
+I fear he will.
+How now, Catesby, what says your lord?
+Input:
+956+820
+

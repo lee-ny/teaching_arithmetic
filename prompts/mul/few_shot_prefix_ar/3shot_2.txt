@@ -1,0 +1,30 @@
+Input:
+63*92
+Target:
+<scratch>
+[6,3] has 2 digits.
+[9,2] has 2 digits.
+[6,3] * 2 , A=[1,2,6] , k=1 , B=[1,2,6] , C=0+126=126
+[6,3] * 9 , A=[5,6,7] , k=10 , B=[5,6,7,0] , C=126+5670=5796 , END
+</scratch>
+5 7 9 6
+Input:
+16*49
+Target:
+<scratch>
+[1,6] has 2 digits.
+[4,9] has 2 digits.
+[1,6] * 9 , A=[1,4,4] , k=1 , B=[1,4,4] , C=0+144=144
+[1,6] * 4 , A=[6,4] , k=10 , B=[6,4,0] , C=144+640=784 , END
+</scratch>
+7 8 4
+Input:
+0*10
+Target:
+<scratch>
+[0] has 1 digits.
+[1,0] has 2 digits.
+[0] * 0 , A=[0] , k=1 , B=[0] , C=0+0=0
+[0] * 1 , A=[0] , k=10 , B=[0] , C=0+0=0 , END
+</scratch>
+0

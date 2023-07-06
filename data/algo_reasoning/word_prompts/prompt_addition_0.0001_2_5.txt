@@ -1,0 +1,495 @@
+MENENIUS:
+I mean, thy general.
+Input:
+23+543
+
+MENENIUS:
+I mean, thy general.
+Input:
+25+665
+
+MENENIUS:
+I mean, thy general.
+Input:
+40+645
+
+MENENIUS:
+I mean, thy general.
+Input:
+44+540
+
+MENENIUS:
+I mean, thy general.
+Input:
+55+481
+
+MENENIUS:
+I mean, thy general.
+Input:
+56+690
+
+MENENIUS:
+I mean, thy general.
+Input:
+65+533
+
+MENENIUS:
+I mean, thy general.
+Input:
+71+68
+
+MENENIUS:
+I mean, thy general.
+Input:
+72+767
+
+MENENIUS:
+I mean, thy general.
+Input:
+77+831
+
+MENENIUS:
+I mean, thy general.
+Input:
+78+494
+
+MENENIUS:
+I mean, thy general.
+Input:
+83+755
+
+MENENIUS:
+I mean, thy general.
+Input:
+89+963
+
+MENENIUS:
+I mean, thy general.
+Input:
+106+936
+
+MENENIUS:
+I mean, thy general.
+Input:
+110+68
+
+MENENIUS:
+I mean, thy general.
+Input:
+128+926
+
+MENENIUS:
+I mean, thy general.
+Input:
+135+13
+
+MENENIUS:
+I mean, thy general.
+Input:
+136+840
+
+MENENIUS:
+I mean, thy general.
+Input:
+144+464
+
+MENENIUS:
+I mean, thy general.
+Input:
+152+626
+
+MENENIUS:
+I mean, thy general.
+Input:
+163+287
+
+MENENIUS:
+I mean, thy general.
+Input:
+177+618
+
+MENENIUS:
+I mean, thy general.
+Input:
+201+638
+
+MENENIUS:
+I mean, thy general.
+Input:
+213+476
+
+MENENIUS:
+I mean, thy general.
+Input:
+235+107
+
+MENENIUS:
+I mean, thy general.
+Input:
+243+849
+
+MENENIUS:
+I mean, thy general.
+Input:
+246+914
+
+MENENIUS:
+I mean, thy general.
+Input:
+253+700
+
+MENENIUS:
+I mean, thy general.
+Input:
+260+112
+
+MENENIUS:
+I mean, thy general.
+Input:
+262+673
+
+MENENIUS:
+I mean, thy general.
+Input:
+274+214
+
+MENENIUS:
+I mean, thy general.
+Input:
+279+94
+
+MENENIUS:
+I mean, thy general.
+Input:
+281+159
+
+MENENIUS:
+I mean, thy general.
+Input:
+305+589
+
+MENENIUS:
+I mean, thy general.
+Input:
+309+558
+
+MENENIUS:
+I mean, thy general.
+Input:
+312+457
+
+MENENIUS:
+I mean, thy general.
+Input:
+324+531
+
+MENENIUS:
+I mean, thy general.
+Input:
+324+610
+
+MENENIUS:
+I mean, thy general.
+Input:
+334+42
+
+MENENIUS:
+I mean, thy general.
+Input:
+338+439
+
+MENENIUS:
+I mean, thy general.
+Input:
+341+49
+
+MENENIUS:
+I mean, thy general.
+Input:
+357+137
+
+MENENIUS:
+I mean, thy general.
+Input:
+367+176
+
+MENENIUS:
+I mean, thy general.
+Input:
+378+881
+
+MENENIUS:
+I mean, thy general.
+Input:
+379+648
+
+MENENIUS:
+I mean, thy general.
+Input:
+410+919
+
+MENENIUS:
+I mean, thy general.
+Input:
+418+694
+
+MENENIUS:
+I mean, thy general.
+Input:
+440+260
+
+MENENIUS:
+I mean, thy general.
+Input:
+446+826
+
+MENENIUS:
+I mean, thy general.
+Input:
+455+201
+
+MENENIUS:
+I mean, thy general.
+Input:
+470+680
+
+MENENIUS:
+I mean, thy general.
+Input:
+478+727
+
+MENENIUS:
+I mean, thy general.
+Input:
+488+537
+
+MENENIUS:
+I mean, thy general.
+Input:
+494+306
+
+MENENIUS:
+I mean, thy general.
+Input:
+506+572
+
+MENENIUS:
+I mean, thy general.
+Input:
+511+8
+
+MENENIUS:
+I mean, thy general.
+Input:
+521+53
+
+MENENIUS:
+I mean, thy general.
+Input:
+523+276
+
+MENENIUS:
+I mean, thy general.
+Input:
+529+661
+
+MENENIUS:
+I mean, thy general.
+Input:
+530+361
+
+MENENIUS:
+I mean, thy general.
+Input:
+540+577
+
+MENENIUS:
+I mean, thy general.
+Input:
+557+155
+
+MENENIUS:
+I mean, thy general.
+Input:
+560+545
+
+MENENIUS:
+I mean, thy general.
+Input:
+568+874
+
+MENENIUS:
+I mean, thy general.
+Input:
+581+405
+
+MENENIUS:
+I mean, thy general.
+Input:
+581+414
+
+MENENIUS:
+I mean, thy general.
+Input:
+596+819
+
+MENENIUS:
+I mean, thy general.
+Input:
+605+516
+
+MENENIUS:
+I mean, thy general.
+Input:
+605+997
+
+MENENIUS:
+I mean, thy general.
+Input:
+608+364
+
+MENENIUS:
+I mean, thy general.
+Input:
+622+112
+
+MENENIUS:
+I mean, thy general.
+Input:
+629+778
+
+MENENIUS:
+I mean, thy general.
+Input:
+633+684
+
+MENENIUS:
+I mean, thy general.
+Input:
+634+276
+
+MENENIUS:
+I mean, thy general.
+Input:
+648+157
+
+MENENIUS:
+I mean, thy general.
+Input:
+649+207
+
+MENENIUS:
+I mean, thy general.
+Input:
+667+525
+
+MENENIUS:
+I mean, thy general.
+Input:
+673+361
+
+MENENIUS:
+I mean, thy general.
+Input:
+675+754
+
+MENENIUS:
+I mean, thy general.
+Input:
+701+793
+
+MENENIUS:
+I mean, thy general.
+Input:
+712+658
+
+MENENIUS:
+I mean, thy general.
+Input:
+746+711
+
+MENENIUS:
+I mean, thy general.
+Input:
+757+751
+
+MENENIUS:
+I mean, thy general.
+Input:
+767+325
+
+MENENIUS:
+I mean, thy general.
+Input:
+767+407
+
+MENENIUS:
+I mean, thy general.
+Input:
+771+681
+
+MENENIUS:
+I mean, thy general.
+Input:
+783+769
+
+MENENIUS:
+I mean, thy general.
+Input:
+822+409
+
+MENENIUS:
+I mean, thy general.
+Input:
+829+351
+
+MENENIUS:
+I mean, thy general.
+Input:
+837+362
+
+MENENIUS:
+I mean, thy general.
+Input:
+840+936
+
+MENENIUS:
+I mean, thy general.
+Input:
+852+852
+
+MENENIUS:
+I mean, thy general.
+Input:
+860+33
+
+MENENIUS:
+I mean, thy general.
+Input:
+887+13
+
+MENENIUS:
+I mean, thy general.
+Input:
+897+245
+
+MENENIUS:
+I mean, thy general.
+Input:
+941+611
+
+MENENIUS:
+I mean, thy general.
+Input:
+952+239
+
+MENENIUS:
+I mean, thy general.
+Input:
+954+204
+
+MENENIUS:
+I mean, thy general.
+Input:
+956+820
+

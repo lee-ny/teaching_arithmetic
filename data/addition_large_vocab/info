@@ -1,0 +1,12 @@
+This one has all characters 
+```
+all the unique characters: 
+ !&'+,-./0123456789:;<=>?ABCDEFGHIJKLMNOPQRSTUVWXYZ[]abcdefghijklmnopqrstuvwxyz
+vocab size: 80
+```
+From Shakespeare, addition and AR. 
+This is different from the folder `addition_bal` which has a meta file (and mapped binary file) with only `01234567899+=\n` characters.
+
+add_examples.txt files have been directly taken from addition_bal folder. 
+
+Note that val.bin has also been directly taken from addition_bal folder.

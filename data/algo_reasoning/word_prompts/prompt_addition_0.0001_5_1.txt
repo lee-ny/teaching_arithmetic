@@ -1,0 +1,792 @@
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+23+543
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+25+665
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+40+645
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+44+540
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+55+481
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+56+690
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+65+533
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+71+68
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+72+767
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+77+831
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+78+494
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+83+755
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+89+963
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+106+936
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+110+68
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+128+926
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+135+13
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+136+840
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+144+464
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+152+626
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+163+287
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+177+618
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+201+638
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+213+476
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+235+107
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+243+849
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+246+914
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+253+700
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+260+112
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+262+673
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+274+214
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+279+94
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+281+159
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+305+589
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+309+558
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+312+457
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+324+531
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+324+610
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+334+42
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+338+439
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+341+49
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+357+137
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+367+176
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+378+881
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+379+648
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+410+919
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+418+694
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+440+260
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+446+826
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+455+201
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+470+680
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+478+727
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+488+537
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+494+306
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+506+572
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+511+8
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+521+53
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+523+276
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+529+661
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+530+361
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+540+577
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+557+155
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+560+545
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+568+874
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+581+405
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+581+414
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+596+819
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+605+516
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+605+997
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+608+364
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+622+112
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+629+778
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+633+684
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+634+276
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+648+157
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+649+207
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+667+525
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+673+361
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+675+754
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+701+793
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+712+658
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+746+711
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+757+751
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+767+325
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+767+407
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+771+681
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+783+769
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+822+409
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+829+351
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+837+362
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+840+936
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+852+852
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+860+33
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+887+13
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+897+245
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+941+611
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+952+239
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+954+204
+
+Is this the real life? Is this just fantasy? Caught in a landside, no escape from reality.
+Open your eyes, look up to the skies and see.
+I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to me, to me.
+Input:
+956+820
+

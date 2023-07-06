@@ -1,0 +1,20 @@
+Input:
+33*31
+Target:
+<scratch>
+[3,3] has 2 digits.
+[3,1] has 2 digits.
+[3,3] * 1 , A=[3,3] , k=1 , B=[3,3] , C=0+33=33
+[3,3] * 3 , A=[9,9] , k=10 , B=[9,9,0] , C=33+990=1023 , END
+</scratch>
+1 0 2 3
+Input:
+80*80
+Target:
+<scratch>
+[8,0] has 2 digits.
+[8,0] has 2 digits.
+[8,0] * 0 , A=[0] , k=1 , B=[0] , C=0+0=0
+[8,0] * 8 , A=[6,4,0] , k=10 , B=[6,4,0,0] , C=0+6400=6400 , END
+</scratch>
+6 4 0 0

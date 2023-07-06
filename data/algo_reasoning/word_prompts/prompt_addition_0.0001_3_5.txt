@@ -1,0 +1,693 @@
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+23+543
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+25+665
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+40+645
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+44+540
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+55+481
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+56+690
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+65+533
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+71+68
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+72+767
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+77+831
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+78+494
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+83+755
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+89+963
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+106+936
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+110+68
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+128+926
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+135+13
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+136+840
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+144+464
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+152+626
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+163+287
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+177+618
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+201+638
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+213+476
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+235+107
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+243+849
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+246+914
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+253+700
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+260+112
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+262+673
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+274+214
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+279+94
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+281+159
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+305+589
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+309+558
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+312+457
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+324+531
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+324+610
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+334+42
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+338+439
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+341+49
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+357+137
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+367+176
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+378+881
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+379+648
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+410+919
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+418+694
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+440+260
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+446+826
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+455+201
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+470+680
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+478+727
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+488+537
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+494+306
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+506+572
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+511+8
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+521+53
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+523+276
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+529+661
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+530+361
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+540+577
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+557+155
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+560+545
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+568+874
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+581+405
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+581+414
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+596+819
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+605+516
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+605+997
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+608+364
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+622+112
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+629+778
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+633+684
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+634+276
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+648+157
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+649+207
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+667+525
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+673+361
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+675+754
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+701+793
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+712+658
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+746+711
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+757+751
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+767+325
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+767+407
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+771+681
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+783+769
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+822+409
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+829+351
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+837+362
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+840+936
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+852+852
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+860+33
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+887+13
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+897+245
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+941+611
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+952+239
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+954+204
+
+CATESBY:
+Bad news, my lord: Ely is fled to Richmond;
+And Buckingham, back'd with the hardy Welshmen,
+Is in the field, and still his power increaseth.
+Input:
+956+820
+

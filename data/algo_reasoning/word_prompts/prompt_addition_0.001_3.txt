@@ -1,0 +1,6930 @@
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+1+418
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+2+951
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+3+549
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+3+803
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+4+97
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+4+139
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+4+899
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+5+369
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+8+545
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+11+104
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+11+469
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+12+193
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+13+144
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+14+706
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+14+852
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+17+693
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+18+244
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+20+335
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+20+724
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+22+88
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+22+194
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+23+803
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+24+247
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+26+246
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+26+309
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+27+718
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+30+176
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+30+894
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+33+27
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+33+497
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+33+986
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+34+15
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+34+301
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+34+973
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+39+497
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+41+478
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+41+482
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+41+767
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+41+946
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+43+149
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+43+677
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+45+101
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+45+569
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+45+962
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+46+53
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+46+360
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+46+792
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+48+570
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+51+331
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+51+903
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+53+499
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+55+953
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+56+257
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+58+93
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+59+385
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+60+147
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+60+311
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+61+187
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+61+898
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+62+837
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+62+909
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+63+533
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+64+335
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+65+74
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+65+638
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+65+883
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+71+75
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+72+152
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+72+373
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+73+350
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+74+176
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+75+353
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+75+354
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+77+113
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+78+366
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+78+584
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+78+806
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+79+413
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+81+73
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+82+851
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+83+372
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+83+924
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+85+903
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+86+161
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+87+845
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+88+820
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+89+524
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+90+147
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+90+300
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+94+434
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+95+92
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+95+562
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+95+587
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+95+621
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+96+388
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+97+629
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+101+775
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+103+895
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+104+5
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+108+92
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+108+473
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+110+179
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+111+615
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+111+686
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+112+607
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+113+146
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+114+868
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+114+962
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+115+103
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+115+372
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+120+748
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+123+657
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+123+764
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+124+15
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+124+436
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+125+456
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+126+16
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+128+28
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+128+370
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+128+396
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+132+550
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+134+906
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+135+278
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+135+491
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+135+669
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+139+385
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+139+432
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+140+644
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+142+848
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+142+873
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+143+249
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+145+290
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+146+494
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+146+589
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+147+167
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+147+534
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+148+389
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+149+241
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+149+466
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+151+462
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+151+687
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+151+978
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+152+365
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+152+900
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+152+947
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+153+64
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+153+298
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+153+614
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+153+988
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+154+659
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+154+666
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+155+338
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+155+640
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+156+450
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+157+319
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+157+738
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+158+736
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+159+47
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+159+116
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+159+277
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+159+299
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+161+221
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+161+409
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+161+836
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+161+888
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+162+292
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+162+444
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+163+930
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+165+862
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+166+136
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+167+39
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+167+216
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+168+323
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+168+493
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+168+665
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+170+86
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+172+649
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+172+823
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+175+823
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+176+146
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+178+970
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+179+870
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+180+226
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+182+844
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+183+770
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+184+457
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+184+845
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+185+185
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+185+466
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+186+558
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+188+15
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+188+75
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+188+482
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+190+649
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+191+589
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+192+427
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+193+74
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+196+576
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+196+943
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+197+978
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+198+207
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+199+65
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+200+935
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+202+838
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+203+356
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+203+374
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+203+903
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+204+973
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+205+389
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+206+321
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+207+222
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+209+198
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+210+946
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+212+426
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+216+214
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+217+820
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+218+361
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+219+848
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+221+158
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+221+184
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+221+429
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+221+748
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+222+166
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+223+98
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+225+396
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+225+424
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+225+518
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+226+593
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+227+798
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+228+836
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+230+463
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+232+645
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+232+744
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+233+560
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+233+924
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+234+65
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+234+649
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+234+797
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+236+590
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+236+981
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+237+27
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+237+659
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+238+59
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+238+97
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+238+333
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+241+496
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+242+152
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+245+400
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+246+579
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+246+721
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+248+135
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+249+805
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+249+860
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+250+919
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+251+329
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+252+209
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+252+862
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+254+220
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+254+501
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+255+946
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+256+859
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+258+851
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+260+930
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+262+754
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+262+759
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+263+694
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+263+966
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+264+404
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+269+287
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+269+460
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+270+92
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+270+101
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+270+117
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+271+477
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+271+889
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+273+498
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+275+464
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+275+922
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+276+1
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+279+522
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+280+581
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+282+705
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+283+430
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+283+583
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+283+936
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+285+390
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+285+754
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+286+248
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+286+764
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+288+315
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+288+547
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+290+897
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+291+281
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+292+158
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+292+770
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+293+689
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+293+728
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+294+290
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+294+488
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+294+944
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+295+419
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+296+30
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+296+801
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+297+173
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+297+485
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+298+589
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+299+452
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+300+553
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+300+681
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+300+949
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+301+417
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+301+784
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+302+317
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+302+350
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+302+395
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+302+523
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+304+980
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+305+677
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+307+727
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+307+814
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+309+463
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+309+986
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+310+294
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+310+314
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+310+531
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+310+626
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+310+672
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+310+926
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+311+92
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+311+427
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+314+241
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+314+315
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+316+542
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+317+313
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+318+113
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+318+356
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+318+584
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+318+825
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+319+145
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+320+223
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+322+387
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+324+108
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+324+690
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+325+231
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+326+928
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+327+627
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+329+693
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+331+862
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+332+900
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+333+793
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+334+547
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+335+999
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+336+462
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+337+207
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+338+964
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+339+390
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+340+88
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+343+721
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+343+945
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+344+240
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+344+857
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+344+861
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+345+974
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+346+569
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+350+161
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+350+288
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+351+369
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+352+978
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+353+580
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+353+737
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+355+787
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+356+977
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+357+110
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+357+168
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+357+171
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+357+265
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+359+409
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+360+800
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+360+931
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+362+461
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+363+888
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+364+498
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+364+671
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+365+158
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+366+142
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+367+883
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+368+237
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+372+821
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+374+233
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+375+341
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+377+878
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+378+843
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+380+928
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+381+465
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+382+270
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+383+218
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+383+282
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+386+737
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+389+880
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+391+235
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+392+818
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+393+123
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+393+214
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+393+366
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+393+475
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+393+783
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+393+845
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+394+934
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+395+668
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+396+27
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+397+536
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+397+580
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+397+926
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+398+582
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+398+654
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+401+893
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+402+168
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+404+796
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+405+865
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+407+759
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+408+14
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+409+932
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+410+478
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+411+595
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+411+723
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+411+948
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+415+228
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+415+502
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+416+617
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+417+110
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+417+161
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+417+536
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+419+457
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+419+810
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+420+331
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+420+789
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+421+748
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+421+911
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+422+269
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+422+992
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+423+463
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+423+593
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+423+890
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+424+834
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+425+214
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+426+559
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+429+658
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+431+981
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+432+592
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+432+925
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+433+150
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+433+459
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+433+917
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+436+237
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+436+443
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+437+80
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+438+385
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+438+837
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+440+827
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+441+112
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+442+994
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+443+267
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+443+715
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+445+375
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+445+433
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+445+978
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+447+122
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+449+100
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+449+678
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+449+809
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+450+629
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+452+801
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+453+688
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+453+961
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+454+59
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+454+95
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+455+256
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+457+444
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+457+951
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+461+223
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+461+854
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+462+269
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+463+0
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+467+104
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+469+518
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+470+232
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+473+695
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+475+80
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+475+358
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+476+396
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+476+943
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+477+556
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+478+36
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+481+78
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+483+983
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+485+714
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+486+476
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+488+776
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+492+35
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+493+520
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+495+113
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+495+430
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+497+388
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+498+825
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+498+858
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+500+2
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+501+527
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+502+664
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+503+414
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+503+846
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+504+928
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+505+925
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+506+170
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+506+987
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+509+201
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+509+938
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+510+394
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+510+787
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+511+81
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+512+576
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+512+732
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+514+289
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+516+720
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+519+909
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+520+110
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+521+7
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+521+616
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+521+657
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+521+763
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+521+780
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+523+869
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+525+175
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+526+471
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+527+355
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+528+511
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+528+552
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+528+594
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+530+213
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+530+233
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+530+663
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+530+729
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+532+573
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+533+70
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+533+101
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+534+400
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+534+661
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+536+430
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+536+882
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+538+307
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+540+352
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+540+595
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+541+79
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+542+227
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+542+978
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+544+178
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+544+192
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+544+235
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+544+982
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+545+2
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+545+710
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+546+289
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+547+264
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+548+670
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+549+32
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+551+668
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+553+63
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+553+978
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+554+172
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+554+372
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+555+380
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+556+80
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+557+964
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+559+54
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+559+180
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+559+191
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+559+943
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+559+993
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+560+277
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+561+544
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+562+68
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+563+669
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+564+177
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+564+681
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+564+946
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+565+270
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+565+371
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+566+36
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+566+69
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+566+970
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+568+202
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+568+674
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+571+174
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+571+389
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+572+704
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+573+622
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+574+591
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+574+679
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+575+257
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+575+294
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+575+885
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+576+410
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+577+589
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+577+607
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+578+298
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+579+3
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+579+427
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+582+689
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+583+194
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+583+862
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+585+191
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+585+753
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+586+121
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+586+165
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+586+882
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+587+726
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+588+900
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+589+85
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+590+738
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+591+166
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+591+745
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+592+414
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+594+900
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+596+932
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+597+541
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+600+958
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+602+746
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+604+407
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+604+500
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+606+334
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+607+313
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+608+280
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+608+545
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+608+685
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+609+221
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+610+448
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+610+654
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+610+693
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+612+592
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+612+909
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+613+650
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+614+372
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+615+201
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+617+631
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+617+665
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+618+627
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+619+227
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+620+314
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+621+837
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+622+798
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+623+849
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+625+779
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+625+949
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+627+171
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+628+961
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+632+22
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+632+230
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+633+22
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+633+741
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+635+144
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+635+382
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+636+7
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+637+708
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+637+800
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+638+596
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+638+839
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+638+873
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+641+618
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+642+682
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+643+809
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+646+854
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+647+918
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+652+30
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+652+426
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+654+349
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+655+856
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+657+484
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+659+289
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+663+172
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+663+875
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+665+934
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+666+909
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+671+24
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+671+488
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+671+623
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+674+658
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+674+740
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+674+972
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+676+553
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+677+877
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+679+403
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+679+718
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+681+452
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+684+394
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+685+613
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+685+624
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+686+823
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+686+859
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+688+798
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+692+749
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+694+40
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+694+685
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+694+716
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+698+65
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+699+400
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+700+203
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+700+711
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+701+430
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+702+406
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+702+644
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+702+968
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+703+286
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+703+489
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+703+569
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+706+118
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+706+397
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+709+571
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+711+680
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+712+848
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+713+240
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+713+804
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+714+926
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+715+369
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+715+663
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+717+698
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+718+468
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+719+392
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+720+68
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+720+466
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+721+575
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+723+216
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+723+468
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+723+497
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+728+703
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+729+393
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+731+666
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+732+950
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+734+775
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+735+257
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+735+613
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+736+84
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+736+339
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+736+511
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+738+211
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+738+506
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+738+520
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+738+703
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+740+848
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+742+304
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+742+442
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+742+773
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+747+304
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+747+626
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+747+893
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+747+947
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+749+353
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+750+134
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+751+491
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+752+721
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+752+722
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+753+100
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+754+759
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+754+820
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+755+854
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+756+888
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+759+306
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+759+849
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+760+945
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+761+744
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+761+829
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+764+672
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+764+777
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+765+967
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+766+556
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+766+591
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+767+919
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+768+563
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+768+659
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+771+702
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+771+706
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+774+751
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+774+981
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+775+615
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+776+92
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+778+906
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+779+232
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+779+807
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+780+331
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+783+585
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+784+197
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+784+810
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+787+742
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+787+886
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+788+941
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+789+208
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+789+293
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+790+47
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+791+857
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+792+569
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+793+496
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+794+820
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+797+22
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+799+13
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+800+424
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+800+793
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+801+486
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+801+746
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+801+903
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+801+969
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+802+476
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+804+308
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+804+322
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+804+773
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+805+448
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+807+321
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+808+301
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+808+754
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+809+226
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+809+847
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+809+927
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+810+216
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+810+595
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+813+361
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+813+558
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+816+592
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+817+22
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+817+541
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+821+577
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+822+466
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+823+901
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+825+96
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+825+167
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+826+4
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+826+554
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+832+483
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+835+592
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+836+374
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+838+534
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+839+669
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+839+915
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+839+919
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+839+956
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+840+82
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+843+443
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+846+934
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+847+908
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+850+19
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+851+189
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+851+377
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+852+630
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+853+492
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+853+698
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+854+820
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+856+959
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+857+14
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+857+238
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+859+423
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+859+686
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+859+689
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+860+937
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+861+308
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+863+532
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+864+493
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+865+756
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+866+3
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+867+847
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+868+345
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+869+393
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+873+243
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+873+360
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+873+812
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+874+616
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+876+163
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+877+445
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+877+927
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+879+321
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+880+85
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+881+100
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+881+967
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+883+831
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+885+104
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+887+389
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+887+953
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+889+257
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+890+111
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+893+476
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+895+492
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+897+989
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+899+448
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+902+955
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+904+714
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+904+761
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+906+48
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+906+271
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+907+369
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+908+768
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+909+95
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+909+917
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+911+555
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+912+781
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+913+719
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+913+922
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+914+123
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+916+42
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+917+895
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+918+182
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+919+278
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+919+424
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+919+494
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+920+512
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+922+464
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+922+899
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+923+491
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+924+421
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+924+738
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+925+312
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+925+805
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+926+365
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+930+828
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+933+409
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+933+719
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+934+568
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+935+543
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+935+826
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+936+5
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+937+523
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+939+24
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+940+938
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+942+630
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+944+508
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+945+555
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+946+750
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+947+20
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+947+256
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+947+651
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+948+218
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+949+141
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+949+190
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+950+588
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+950+905
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+951+263
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+952+514
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+952+611
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+953+695
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+953+928
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+954+76
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+954+92
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+954+822
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+958+138
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+959+390
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+959+677
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+959+841
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+961+210
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+961+939
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+962+198
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+962+206
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+963+553
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+965+698
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+966+96
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+966+108
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+966+289
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+967+993
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+968+319
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+969+981
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+970+72
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+970+775
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+971+60
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+973+24
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+973+605
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+975+370
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+975+537
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+977+972
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+978+239
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+978+263
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+979+307
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+984+618
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+987+568
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+988+314
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+988+370
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+988+579
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+991+486
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+991+778
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+992+649
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+992+662
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+994+357
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+994+494
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+995+154
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+998+693
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+998+869
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+999+336
+
+JULIET:
+Romeo!
+ROMEO:
+My dear?
+Input:
+999+916
+

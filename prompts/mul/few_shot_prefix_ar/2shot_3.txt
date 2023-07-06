@@ -1,0 +1,20 @@
+Input:
+72*31
+Target:
+<scratch>
+[7,2] has 2 digits.
+[3,1] has 2 digits.
+[7,2] * 1 , A=[7,2] , k=1 , B=[7,2] , C=0+72=72
+[7,2] * 3 , A=[2,1,6] , k=10 , B=[2,1,6,0] , C=72+2160=2232 , END
+</scratch>
+2 2 3 2
+Input:
+19*43
+Target:
+<scratch>
+[1,9] has 2 digits.
+[4,3] has 2 digits.
+[1,9] * 3 , A=[5,7] , k=1 , B=[5,7] , C=0+57=57
+[1,9] * 4 , A=[7,6] , k=10 , B=[7,6,0] , C=57+760=817 , END
+</scratch>
+8 1 7
