@@ -103,7 +103,7 @@ A description of the main arguments is given below.
 Note that the workflow is managed by specifying the above arguments using the config files specified in the `config/, config2/, config_gpt2` directory and running them with modifications as provided in the scripts in `run/`, `run_gpt2/`.
 
 ### Sample Config
-```
+```python
 # ===== Evaluation and Checkpointing ===== #
 out_dir = 'out2/addition_plain'
 eval_interval = 250 
