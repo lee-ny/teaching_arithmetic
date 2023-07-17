@@ -33,8 +33,8 @@ dropout = 0.2
 
 # ===== Learning Rate Policy ===== #
 learning_rate = 1e-3
-max_iters = 10000
-lr_decay_iters = 10000 # make equal to max_iters usually
+max_iters = 5000
+lr_decay_iters = 5000 # make equal to max_iters usually
 beta2 = 0.99
 warmup_iters = 100
 

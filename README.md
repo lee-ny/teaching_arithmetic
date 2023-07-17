@@ -1,5 +1,7 @@
 # Teaching Arithmetic to Small Transformers
 
+Paper: [https://arxiv.org/abs/2307.03381](https://arxiv.org/abs/2307.03381)
+
 ## Overview
 ---
 Large language models like GPT-4 exhibit emergent capabilities across general-purpose tasks, such as basic arithmetic, when trained on extensive text data, even though these tasks are not explicitly encoded by the unsupervised, next-token prediction objective. This study investigates how small transformers, trained from random initialization, can efficiently learn arithmetic operations such as addition, multiplication, and elementary functions like square root, using the next-token prediction objective.
@@ -28,7 +30,7 @@ Tested stable dependencies:
 ---
 The main script is `train.py`, to launch the jobs, we provide scripts in `run/`. 
 An example of running the code is as follows:
-```
+```bash
 python train.py config2/addition/plain/train_addition_bal.py \
 --ckpt_path_name="ckpt_10000.pt" \
 --out_dir='out/addition_plain' \
@@ -142,4 +144,16 @@ warmup_iters = 100
 
 # ===== Device ===== #
 device='cuda:0'
+```
+
+## Citation
+```bibtex
+@misc{lee2023teaching,
+      title={Teaching Arithmetic to Small Transformers}, 
+      author={Nayoung Lee and Kartik Sreenivasan and Jason D. Lee and Kangwook Lee and Dimitris Papailiopoulos},
+      year={2023},
+      eprint={2307.03381},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
