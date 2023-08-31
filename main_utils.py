@@ -252,6 +252,7 @@ def reverse_string(a: str) -> str:
     
 
 def get_abc_new(abc: str, zero_pad=False, reverse_ab=False, binary=False, few_shot=False, algo_reason=False):
+    abc = abc.strip("\n")
     if few_shot:
         if algo_reason:
             abc = abc.split('Target')[-2]
@@ -560,12 +561,14 @@ def evaluate_addition_batch(config, model, ctx, encode, decode, verbose=False, n
         print(f"Evaluating Addition using test data file: {test_data_file}")
         # we know test examples are test.txt
         test_data_list = get_data_list(test_data_file, operator=operator)
-        test_data_str = generate_data_str(test_data_list, operator=operator, format=data_format, train=False, shuffle=True, add_space=add_space, simple=simple, random_A=random_A, random_C=random_C)
+        test_data_str_list = generate_data_str_list(test_data_list, operator=operator, format=data_format, train=False, shuffle=True, add_space=add_space, simple=simple, random_A=random_A, random_C=random_C)
+        test_data_str = "".join(test_data_str_list)
         if algo_reason:
             lines = [x.strip() + "\nTarget:\n" for x in test_data_str.split("Target:")]
             lines = lines[:-1]
         else:
-            lines = test_data_str.split('\n')[:-1]
+            # remove \n from the end of each line
+            lines = [item.rstrip("\n") for item in test_data_str_list]
     else:
         # encode the beginning of the prompt
         if start.startswith('FILE:'):
@@ -873,7 +876,8 @@ def evaluate_addition_fewshot_batch(config, model, ctx, encode, decode, verbose=
         print(f"Evaluating Addition using test data file: {test_data_file}")
         # we know test examples are test.txt
         test_data_list = get_data_list(test_data_file, operator=operator)
-        test_data_str = generate_data_str(test_data_list, operator=operator, format=data_format, train=False, shuffle=True, fewshot=fewshot, prompt=prompt_dir, simple=simple, random_A=random_A, random_C=random_C)
+        test_data_str_list = generate_data_str_list(test_data_list, operator=operator, format=data_format, train=False, shuffle=True, fewshot=fewshot, prompt=prompt_dir, simple=simple, random_A=random_A, random_C=random_C)
+        test_data_str = "".join(test_data_str_list)
         if fewshot:
             data = test_data_str
             lines = data.split('\n\n')[:-1]
@@ -882,7 +886,8 @@ def evaluate_addition_fewshot_batch(config, model, ctx, encode, decode, verbose=
             lines2 = [line+'\n' for line in lines]
             lines = lines2
         if not fewshot:
-            lines = test_data_str.split('\n')[:-1]
+            # remove \n from the end of each line
+            lines = [item.rstrip("\n") for item in test_data_str_list]
     else:
         # encode the beginning of the prompt
         if start.startswith('FILE:'):
@@ -1498,7 +1503,7 @@ def add_spaces(s):
 
 # creating a script to take in a list of tuples [(x1, x2, y)] and output a string of the form "x1 x2 y\n"
 # this will be used to generate the data for our TF model
-def generate_data_str(data_list, operator='+', format='plain', train=True, shuffle=True, fewshot=False, prompt=None, add_space=False, simple=False, random_A=False, random_C=False):
+def generate_data_str_list(data_list, operator='+', format='plain', train=True, shuffle=True, fewshot=False, prompt=None, add_space=False, simple=False, random_A=False, random_C=False):
     
     if format == 'algo_reasoning' and add_space:
         # TODO: add_space=True will add a space between each numbers, but not yet supported for algo_reasoning
@@ -1511,6 +1516,8 @@ def generate_data_str(data_list, operator='+', format='plain', train=True, shuff
         with open(prompt, 'r') as f:
             prompt = f.read()
 
+    data_str_list = []
+
     # for idx, (x1, x2, y) in enumerate(data_list):
     for idx, data_tuple in enumerate(data_list):
         operator = data_tuple[-1]
@@ -1522,6 +1529,8 @@ def generate_data_str(data_list, operator='+', format='plain', train=True, shuff
                     output_str = f"{x1}{operator}{x2}={y}\n"
                 elif format == 'plain2':
                     output_str = f"${x1}{operator}{x2}={y}$\n"
+                elif format == "plain3":
+                    output_str = f"{x1}{operator}{x2}={y}\n"
                 elif format == 'reverse':
                     output_str = f"${x1}{operator}{x2}={str(y)[::-1]}$\n"
                 elif format == 'reverse2':
@@ -1534,6 +1543,8 @@ def generate_data_str(data_list, operator='+', format='plain', train=True, shuff
                     output_str = f"{x1}{operator}{x2}=\n"
                 elif format == 'plain2':
                     output_str = f"${x1}{operator}{x2}=\n"
+                elif format == 'plain3':
+                    output_str = f"\n{x1}{operator}{x2}=\n"
                 elif format == 'reverse':
                     output_str = f"${x1}{operator}{x2}=\n"
                 elif format == 'reverse2':
@@ -1544,10 +1555,7 @@ def generate_data_str(data_list, operator='+', format='plain', train=True, shuff
                 output_str = prompt + output_str + '\n'
             if add_space:
                 output_str = add_spaces(output_str)
-            if idx == 0:
-                data_str = output_str
-            else:
-                data_str += output_str
+            data_str_list.append(output_str)
 
         elif operator in ['sin', 'sqrt']:
             x, y = data_tuple[0], data_tuple[1]
@@ -1566,10 +1574,7 @@ def generate_data_str(data_list, operator='+', format='plain', train=True, shuff
                 output_str = prompt + output_str + '\n'
             if add_space:
                 output_str = add_spaces(output_str)
-            if idx == 0:
-                data_str = output_str
-            else:
-                data_str += output_str
+            data_str_list.append(output_str)
         
         elif operator in ['text']:
             output_str = data_tuple[0]
@@ -1577,13 +1582,12 @@ def generate_data_str(data_list, operator='+', format='plain', train=True, shuff
                 output_str = prompt + output_str + '\n'
             if add_space:
                 output_str = add_spaces(output_str)
-            if idx == 0:
-                data_str = output_str+'\n\n'
-            else:
-                data_str += output_str+'\n\n'
+            data_str_list.append(output_str)
 
-    return data_str
+    return data_str_list
 
+def generate_data_str(data_list, *args, **kwargs):
+    return ''.join(generate_data_str_list(data_list, *args, **kwargs))
 
 # create and save meta file for a given vocabulary
 def create_meta_file(vocabulary, input_data_str=None, tokenizer='char'):
